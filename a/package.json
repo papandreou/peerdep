@@ -1,0 +1,10 @@
+{
+  "name": "@papandreou/a",
+  "version": "1.0.0",
+  "dependencies": {
+    "@papandreou/b": "1.0.0",
+    "@papandreou/c": "1.0.0"
+  },
+  "description": "part of a peer dependency experiment",
+  "license": "ISC"
+}
